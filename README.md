@@ -26,4 +26,8 @@ Data cleaning, exploratory analysis, an 80/20 train-test split, 5-fold cross-val
 This began as a university assignment and was rebuilt and extended independently. It uses the full cleaned dataset rather than a 3,000-person sample, keeps 2012 non-voters as their own group, and re-examines variables the original version removed.
 
 ## Data
-The data comes from the [Cooperative Election Study](https://cces.gov.harvard.edu/) and isn't included in this repository.
+The data comes from the Cooperative Congressional Election Study (CCES) 2016:
+
+Ansolabehere, Stephen; Schaffner, Brian F., 2017, "CCES Common Content, 2016", [https://doi.org/10.7910/DVN/GDF6Z0](https://doi.org/10.7910/DVN/GDF6Z0), Harvard Dataverse, V5.
+
+This analysis used a cleaned extract of the survey provided for a university course, which isn't included in this repository.
